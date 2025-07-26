@@ -1,16 +1,10 @@
 <p align="center">
   <img src="https://dsc-readme.tsuni.dev/api/user/1304684154985910305?width=400">
 </p>
-<p align="center">I'm a student who codes for fun, I like to play with things which suits my interests. I have a moderate BackEnd experience mainly in Python, and My SQl-for DBMS. I have a good experience of FrontEnd in HTML and CSS and gradually learning JS.
-  
+<p align="center"I'm a student who codes for fun, I like to play with things that suit my interests. I have moderate BackEnd experience mainly with Node.js, Prisma, and MongoDB for DBMS. I have good experience with FrontEnd using Next.js and Tailwind CSS, and I’m gradually learning other modern frameworks and libraries to expand my skill set."
 <div align="center">
 
-<div  align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="Mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
- </div>
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Cliffvincent/GOATBOTV2-BY-NTKHANG/refs/heads/goatbot/snake.svg" width="500">
