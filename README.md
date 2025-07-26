@@ -1,7 +1,7 @@
 # Hi! 👋 <img src="https://komarev.com/ghpvc/?username=hirwko&style=for-the-badge&base=2615" align="right" />
 
-[![Miwa.lol/cat](https://img.shields.io/badge/my%20socials-miwa.lol%2Ftenshii-0e0d26?style=for-the-badge)](https://miwa.lol/cat)
-[![Hirako](https://img.shields.io/badge/tenshii.moe-141f37?style=for-the-badge)](https://hirako.vercel.app)
+[![Miwa.lol/cat](https://img.shields.io/badge/my%20socials-miwa.lol%2Fcat-0e0d26?style=for-the-badge)](https://miwa.lol/cat)
+[![Hirako](https://img.shields.io/badge/Hirako-141f37?style=for-the-badge)](https://hirako.vercel.app)
 [![Sponsor me](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/hirwko)
 
 I'm SI SU (you probably known me as Hirako), a 17 yo student from Japan 🇯🇵. I started programming since my 10 yo.
