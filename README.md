@@ -53,7 +53,7 @@ I'm SI SU (you probably known me as Hirako), a 17 yo student from Japan 🇯🇵
 
 ---
 
-[![Tenshii's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hirwko&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tenshii's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lazysisu&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
