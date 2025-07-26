@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://dsc-readme.tsuni.dev/api/user/1304684154985910305?width=400">
+  <object data="https://dsc-readme.tsuni.dev/api/user/1304684154985910305?banner=https%3A%2F%2Ftsuni.dev%2Fimages%2Fsobanner.png&amp;theme=nitroLight&amp;primaryColor=8080FF&amp;accentColor=FF80C0" class="mx-auto my-2 max-w-full" width="500">Discord status</object>
 </p>
 <p align="center">I'm a student who codes for fun, I like to play with things which suits my interests. I have a moderate BackEnd experience mainly in Python, and My SQl-for DBMS. I have a good experience of FrontEnd in HTML and CSS and gradually learning JS.
   
